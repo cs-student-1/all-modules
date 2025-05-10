@@ -3,8 +3,7 @@
 ## Intro
 
 ## Usage 
-
-Dieses Projekt ist `baumstrukturiert` statt linear, das bedeutet, dass Unterthemen als Unterverzeichnisse dargestellt werden.  
+ 
 Zur Navigation durch die Themen dienen die Links in den Markdown-Dateien. 
 In den READMEs der jeweiligen Module befindet sich jeweils eine geschachtelte Liste, die alle Themen enthält.
 
