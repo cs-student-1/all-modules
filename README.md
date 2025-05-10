@@ -10,7 +10,7 @@ In den READMEs der jeweiligen Module befindet sich jeweils eine geschachtelte Li
 
 ## Overview
 
-module | description
+modul | Beschreibung
 --- | ---
 [Algorithmic Mechanism Design](./Algorithmic_Mechanism_Design/README.md) | Entwicklung von Algorithmen, die Anreize so gestalten, dass selbstinteressierte Teilnehmer in verteilten Systemen gewünschte, effiziente Ergebnisse erzielen.
 [Betriebssysteme](./Betriebssysteme/README.md) | Einführung in Betriebssystemkonzepte wie Prozess- und Speicherverwaltung, Dateisysteme, etc.
